@@ -42,5 +42,5 @@
 
 ### 四、博客链接
 
-博客链接：
+博客链接：[疫情统计](https://github.com/pb-xxxx/InfectStatistic-main)
 
